@@ -1,0 +1,22 @@
+:py:mod:`viarail_tests.printing`
+================================
+
+.. py:module:: viarail_tests.printing
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   viarail_tests.printing.hello_world
+
+
+
+.. py:function:: hello_world()
+
+
